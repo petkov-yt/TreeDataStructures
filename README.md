@@ -1,37 +1,36 @@
-# Tree Data Structures Project
+# Проект: Дървовидни структури от данни
 
-## Description
-This project is a console application that demonstrates the implementation of a tree data structure.
-The program allows creating and working with a Binary Search Tree (BST).
+## Описание
+Този проект представлява конзолно приложение, което демонстрира реализацията на дървовидна структура от данни. Програмата позволява създаване и работа с двоично дърво за търсене (Binary Search Tree – BST).
 
-## Implemented Tree Type
-Binary Search Tree (BST)
+## Реализиран тип дърво
+Двоично дърво за търсене (BST)
 
-## Functionalities
-- Create a tree
-- Insert elements
-- Search for elements
-- Delete elements
-- Traverse the tree (InOrder)
-- Visualize the tree structure in console
-- Console-based user interface
+## Функционалности
+- Създаване на дърво
+- Добавяне на елементи
+- Търсене на елементи
+- Изтриване на елементи
+- Обхождане на дървото (InOrder)
+- Визуализация на структурата на дървото в конзолата
+- Конзолен потребителски интерфейс
 
-## Technologies Used
+## Използвани технологии
 - C#
-- .NET Console Application
+- .NET конзолно приложение
 
-## How to Run
-1. Open the project in Visual Studio
-2. Run the application
-3. Use the menu to interact with the tree
+## Как да стартирате проекта
+1. Отворете проекта във Visual Studio
+2. Стартирайте приложението
+3. Използвайте менюто, за да работите с дървото
 
-## Example
-Input:
-Insert: 5, 3, 7, 2, 4
+## Пример
+**Вход:**  
+Добавяне: 5, 3, 7, 2, 4  
 
-Output (InOrder Traversal):
-2 3 4 5 7
+**Изход (InOrder обхождане):**  
+2 3 4 5 7  
 
-## Author
-Name: (твоето име)  
-Class: 12 клас
+## Автор
+Име: Петко Петков
+Клас: 12 клас
